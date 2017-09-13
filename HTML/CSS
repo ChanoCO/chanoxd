@@ -1,0 +1,101 @@
+@@ -0,0 +1,100 @@
+<html>
+
+            <head>
+			<title>Wat is Informatica</title>
+			<style>
+			body {
+			background-color: white;opacity; 0.10;
+			}
+		    #Header1 {
+			border-bottom: 5px solid black;
+			border-width: 3px;
+			text-align: center; color:black;
+			padding: 50px 30px 50px 80px;
+			background-color: Lightgray;
+			}
+			#Wat {
+			text-align: justify;
+			font-size: 15px;
+			letter-spacing: 1px;
+			font-family:Lucida Console;
+			margin: 1px 500px 40px 10px;
+			background-color: lightgray;
+			border-bottom: 6px solid #928484;
+			}
+			#Kaas {
+			border-bottom: 6px solid #928484;
+			margin: 10px 1000px 1px 1px;
+			padding: 1px 10px 20px 80px;
+			background-color: lightgray;
+			}
+			#LI1 { 
+			font-size: 13px;
+			letter-spacing: 1px;
+			font-family:Lucida Console;
+			}
+			#LI2 { 
+			font-size: 13px;
+			letter-spacing: 1px;
+			font-family:Lucida Console;
+			}
+			#LI3 { 
+			font-size: 13px;
+			letter-spacing: 1px;
+			font-family:Lucida Console;
+			}
+			#Lijn {
+			border-bottom: 8px solid #6b6463;
+			}
+			#LilBoat {
+			    position: absolute;
+				left: 500px;
+                top: 310px;
+                z-index: -1;
+				border: 4px solid black;
+				}
+			
+			</style>
+            </head>
+      <body>
+	     <h1 id="Header1">Wat is informatica nou eigenlijk?</h1>
+		 
+		 
+		 <br />
+		 <p id=Wat style="color:#EF448B;opacity:0.80"> 
+Bij informatica hou je je bezig met het verwerken van <i><b>informatie en gegevens</i></b>.
+<br />
+<b><i>Gegevens</i></b> zijn het grondwerk voor <b><i>Informatie</b></i>, gegevens zijn feiten, zoals het getal 9 en informatie heeft context er omheen. Dus als ik zeg 9 dan denk je aan het getal zelf zonder context, maar als ik zeg: Ik ben 9 jaar oud, betekent het iets.
+</p>
+		 
+		 <hr id="Lijn"/>
+		
+	
+	    <ol id="Kaas">
+		    <h2 id="Header2"> Wat kan je met gegevens? </h2>
+		    <li id="LI1" style="color:#EF448B">Je kan de gegevens verwerken om bruikbare informatie te bemachtigen.​</li>
+			<li id="LI2" style="color:#EF448B">Toepassen in software en bedrijfskunde</li>
+			<li id="LI3" style="color:#EF448B">Iets nieuws creeren</li>
+		
+		</ol>
+		<img id="LilBoat" src="YAHCY.gif" alt="Lil_boat" style="height:250px; width:500px; >
+		
+<br />
+<h1 id="header2">Bedrijfsactiviteiten</h1>
+<p>Primaire processen</p>
+<p>Secundaire Processen</p>
+      </body>
+	  
+
+
+
+
+<br />		
+<br />	
+<br />	
+<br />	
+<foot>
+
+<p style="color:RGB (235, 239, 68);opacity:0.40"> HTML &copy; Chano INC </p>
+</foot>
+</html>
